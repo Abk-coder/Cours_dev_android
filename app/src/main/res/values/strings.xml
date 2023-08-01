@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">HelloDic2</string>
+    <string name="titre_datail_eleve">Details eleve</string>
+    <string name="prenom">prenom</string>
+    <string name="nom">nom</string>
+    <string name="telephone">telephone</string>
+    <string name="age">age</string>
+    <string name="genie_informatique_et_telecom">Genie Informatique et Telecom</string>
+    <string name="nombre_de_formations_git">Nombre de formations</string>
+    <string name="chef_de_departement_git">Chef de departement: Mr Diallo Diouf</string>
+    <string name="genie_givil">Genie Givil</string>
+    <string name="nombre_de_formations_gc">Nombre de formations</string>
+    <string name="chef_de_departement_gc">Chef de departement: Mr Fall</string>
+    <string name="genie_aeronotique">Genie Aeronotique</string>
+    <string name="nombre_de_formations_gaero">Nombre de formations</string>
+    <string name="chef_de_departement_gem">Chef de departement: Mme Fall</string>
+    <string name="title_activity_ajout_departement">AjoutDepartement</string>
+</resources>
